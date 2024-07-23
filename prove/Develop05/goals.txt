@@ -1,0 +1,4 @@
+1300
+SimpleGoal|wake 1 km|wake 1 km|100|False
+EternalGoal|read my scriptures|read one chapter per day|100
+ChecklistGoal|read 3 books|read books|100|3|1000|3
